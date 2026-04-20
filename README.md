@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <img src="https://1dayexploit.com/assets/gitlogo.png" alt="1dayexploit" width="200" />
+  <img src="https://1dayexploit.com/assets/Logo-PNG.png" alt="1dayexploit" width="200" />
 </picture>
 
 # 1dayexploit - advisories

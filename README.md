@@ -33,7 +33,7 @@ Each advisory contains:
 
 | ID | Vendor | Product | Class | Severity | Status |
 |----|--------|---------|-------|----------|--------|
-| `CVE-YYYY-XXXXX` | — | — | — | — | Published |
+| [`CVE-2026-6377`](./advisories/cve-2026-6377-next4biz-csm-path-traversal/) | Next4Biz Bilgi Teknolojileri A.S. | Next4Biz CSM 6.8.9 | Path Traversal | High | Published |
 
 > Full write-ups live in their own subdirectories. Browse [`/advisories`](./advisories) for the complete list.
 
